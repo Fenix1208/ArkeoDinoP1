@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArkeoDinoP1/static/css/main.f58fd981.css",
+    "main.js": "/ArkeoDinoP1/static/js/main.4a7a175c.js",
+    "static/js/787.d17262ea.chunk.js": "/ArkeoDinoP1/static/js/787.d17262ea.chunk.js",
+    "index.html": "/ArkeoDinoP1/index.html",
+    "main.f58fd981.css.map": "/ArkeoDinoP1/static/css/main.f58fd981.css.map",
+    "main.4a7a175c.js.map": "/ArkeoDinoP1/static/js/main.4a7a175c.js.map",
+    "787.d17262ea.chunk.js.map": "/ArkeoDinoP1/static/js/787.d17262ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58fd981.css",
+    "static/js/main.4a7a175c.js"
+  ]
+}
