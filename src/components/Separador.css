@@ -1,0 +1,14 @@
+.contenedor{
+    background-color: green;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.header_style{
+    height: 150px;
+}
+
+.p{
+    font-size: 30px;
+}
